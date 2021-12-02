@@ -7,8 +7,6 @@
 - 📚 I’m currently learning about Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanbadhon@gmail.com@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-bashar/)
 
 ### Languages I use 📑
 
@@ -31,3 +29,9 @@
   <summary>More...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Salman-Bashar&show_icons=true&count_private=true&theme=dark" />
 </details>
+
+
+### Contact me here
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanbadhon@gmail.com@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-bashar/)
