@@ -1,8 +1,8 @@
-### Hi there I am Salman Bashar🙋🏻‍♂️
+### Hi there, I am Salman Bashar🙋🏻‍♂️
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Curious Learner of Programming 👨‍💻
+## I'm a Curious Learner 👨‍💻
 - 💻 I’m currently working on web development technologies like **NodeJS, ReactJS, MongoDB, Typescript, React, etc.**
 - :test_tube: Knowledge of **Javascript, C#, SQL, NOSQL, TypeORM, GraphQL, Git, etc.**
 - 📚 I’m currently learning about Backend technologies
