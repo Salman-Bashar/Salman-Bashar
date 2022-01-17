@@ -3,7 +3,7 @@
 
 ### I'm a Curious Learner 👨‍💻
 - 💻 I’m currently working on web development technologies like **NodeJS, ReactJS, MongoDB, Typescript, React, etc.**
-- :test_tube: Knowledge of **Javascript, C#, SQL, NOSQL, TypeORM, GraphQL, Git, etc.**
+- :test_tube: Knowledge of **Javascript, C#, SQL, NoSQL, TypeORM, GraphQL, Git, etc.**
 - 📚 I’m currently learning about Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
